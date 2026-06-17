@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Leonardo! 👋</h1>
+<h3 align="center">Senior Cloud Engineer @ Avanade | Azure Specialist | Curitiba, BR 🇧🇷</h3>
 
-<!--
-**Leonardomonteiroquintino/Leonardomonteiroquintino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leonardomonteiroquintino&color=0078D4&style=flat-square" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente atuando como **Infrastructure Cloud Architect** no projeto Microsoft Unified Resilience
+- 🌩️ Especialista em **Azure Resilience, BCDR e arquiteturas multi-AZ**
+- 🤖 Entusiasta em **AI/Copilot solutions** — construindo agentes no Copilot Studio
+- 📚 Sempre estudando e em busca da próxima certificação
